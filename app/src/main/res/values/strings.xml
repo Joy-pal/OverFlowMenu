@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">OverFlowMenu</string>
+    <string name="redmenu">redmenu</string>
+    <string name="greenmenu"> greenmenu</string>
+    <string name="bluemenu">bluemenu</string>
+
+    <string-array name="title">
+
+        <item >Menu 1 </item>
+        <item >Menu 2 </item>
+        <item >Menu 3 </item>
+        <item >Menu 4 </item>
+        <item >Menu 5 </item>
+        <item >Menu 6 </item>
+        <item >Menu 7 </item>
+        <item >Menu 8 </item>
+        <item >Menu 9 </item>
+        <item >Menu 10 </item>
+        <item >Menu 11</item>
+        <item >Menu 12</item>
+
+    </string-array>
+
+    <string-array name="description">
+
+        <item >Description For Menu 1 </item>
+        <item >Description For Menu 2 </item>
+        <item >Description For Menu 3 </item>
+        <item >Description For Menu 4 </item>
+        <item >Description For Menu 5 </item>
+        <item >Description For Menu 6 </item>
+        <item >Description For Menu 7 </item>
+        <item >Description For Menu 8 </item>
+        <item >Description For Menu 9 </item>
+        <item >Description For Menu 10 </item>
+        <item >Description For Menu 11</item>
+        <item >Description For Menu 12</item>
+
+    </string-array>
+
+
+
+
+</resources>
